@@ -64,8 +64,9 @@ url_src /t url_tgt /t src /t tgt /t BiCleaner_score /t MAD_score
 ### Data used for extrinsic evaluation
 
 Data used for training of our NMT engines, apart from the open source baseline training data described in the paper, can be found here:  <br/>
-http://www.crosslang.com/sites/crosslang/files/corpus_en_fr.gz <br/>
-http://www.crosslang.com/sites/crosslang/files/corpus_en_ga.gz <br/>
+https://github.com/ArneDefauw/MAD/releases/download/v1.0.0/corpus_en_fr.gz <br/>
+https://github.com/ArneDefauw/MAD/releases/download/v1.0.0/corpus_en_ga.gz <br/>
+
 
 They are tab separated files with at each line
 
