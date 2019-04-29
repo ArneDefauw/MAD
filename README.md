@@ -56,6 +56,9 @@ The folder 'MAD/Gold_standard' contains the data used for intrinsic evaluation o
 
 The folders 'documents_en_fr' and 'documents_en_ga' contain the 13 respectively 11 documents used for creation of alignment Gold Standards. The file 'url_keys_matched' is a tab separated file containing the doc id, the url of the English documents, url of the foreign language documents and the similarity score produced by Malign (https://github.com/paracrawl/Malign)
 
+The files en_fr_GS.en | en_fr_GS.fr   and   en_ga_GS.en | en_ga_GS.ga contain the Gold standards for EN-FR respectively EN-GA.
+
+
 'corpus_en_fr' and 'corpus_en_ga' are tab separated files containing the alignments produced by Hunalign with at each line:
 
 url_src /t url_tgt /t src /t tgt /t BiCleaner_score /t MAD_score
