@@ -73,7 +73,7 @@ https://github.com/ArneDefauw/MAD/releases/download/v1.0.0/corpus_en_ga.gz <br/>
 
 They are tab separated files with at each line
 
-url_src /t url_tgt /t src /t tgt /t tgt_translated_to_src BiCleaner_score /t MAD_score
+url_src /t url_tgt /t src /t tgt /t tgt_translated_to_src /t BiCleaner_score /t MAD_score
 
 
 
